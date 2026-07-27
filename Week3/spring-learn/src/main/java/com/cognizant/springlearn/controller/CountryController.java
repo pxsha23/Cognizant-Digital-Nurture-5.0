@@ -22,8 +22,6 @@ public class CountryController {
     @Autowired
     private CountryService countryService;
 
-    // Changed from @RequestMapping to @GetMapping: explicit GET mapping,
-    // more consistent match against the SecurityConfig's AntPathRequestMatcher.
     @GetMapping("/country")
     public Country getCountryIndia() {
         LOGGER.info("Start");
