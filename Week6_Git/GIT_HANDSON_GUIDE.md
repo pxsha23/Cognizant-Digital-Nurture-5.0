@@ -1,4 +1,4 @@
-# Git Hands-On — Command Guide 
+# Git Hands-On-Commands
 
 ---
 
