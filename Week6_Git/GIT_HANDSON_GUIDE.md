@@ -46,7 +46,7 @@ git push origin master
 
 ---
 
-## Lab 2: .gitignore (~20 min)
+## Lab 2: .gitignore 
 
 ```bash
 cd GitDemo
@@ -72,7 +72,7 @@ git status
 
 ---
 
-## Lab 3: Branching & Merging (~30 min)
+## Lab 3: Branching & Merging 
 
 ```bash
 cd GitDemo
@@ -109,7 +109,7 @@ git status
 
 ---
 
-## Lab 4: Conflict Resolution (~30 min)
+## Lab 4: Conflict Resolution 
 
 ```bash
 cd GitDemo
@@ -164,7 +164,7 @@ git log --oneline --graph --decorate
 
 ---
 
-## Lab 5: Cleanup & Push (~10 min)
+## Lab 5: Cleanup & Push 
 
 ```bash
 cd GitDemo
