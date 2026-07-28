@@ -1,0 +1,13 @@
+.App {
+  max-width: 700px;
+  margin: 30px auto;
+  background: #fff;
+  padding: 24px 32px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+h1 { color: #1a3c6e; text-align: center; }
+h2 { color: #2b6cb0; border-bottom: 1px solid #e2e8f0; padding-bottom: 6px; }
+.info { font-style: italic; color: #718096; }
+li { padding: 8px 0; display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid #edf2f7; }
+button { padding: 8px 16px; cursor: pointer; margin-left: 10px; }
